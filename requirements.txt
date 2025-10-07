@@ -1,9 +1,0 @@
-chromadb
-langchain
-langchain_chroma
-langchain_community
-langchain_google_genai
-google-genai
-PyPDF2
-youtube-transcript-api
-scikit-learn
